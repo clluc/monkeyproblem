@@ -38,7 +38,7 @@ review your code. Take all the time you need. We understand everyone’s time is
 # Advice
 
 - Try to design and implement your solution as you would do for real production code. Build something we’d want to contribute to.
-- The challenge is kind of open in scope. This is on purpose.
+- The challenge is kind of open in scope. This is on purpose. We will ask you for the motivations behind your decisions.
 - Work on the git repo as you would do in a real situation.
 - Documentation and maintainability is a plus.
 - Good tests make the code easier to work on safely. It also is easier for us to review well-tested code :)
