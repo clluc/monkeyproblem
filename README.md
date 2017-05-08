@@ -1,4 +1,4 @@
-# Monkey Problem
+# The challenge - Monkey Problem
 
 We want to know if African monkeys can be taught about deadlocks. We locate a deep canyon and
 fasten a rope across it, so the monkeys can cross hand-over-hand from one side to the other.
@@ -29,5 +29,20 @@ seconds.
 1 second.)
 - All monkeys travel at the same speed. Each traversal takes exactly 4 seconds, after the monkey
 is on the rope.
+
+# Details
+
+The solution will be uploaded to a private git repository. We will need access to it in order to
+review your code. Take all the time you need. We understand everyone’s time is limited.
+
+# Advice
+
+- Try to design and implement your solution as you would do for real production code. Build something we’d want to contribute to.
+- The challenge is kind of open in scope. This is on purpose.
+- Work on the git repo as you would do in a real situation.
+- Documentation and maintainability is a plus.
+- Good tests make the code easier to work on safely. It also is easier for us to review well-tested code :)
+- Feel free to ask questions.
+
 
 Enjoy it!
